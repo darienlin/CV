@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.layout{
+  display: flex;
+  gap:30px;
+  justify-content: space-around;
+}
+
+.generalInformation{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+
+.subtitle{
+  margin-bottom: 10px;
+}
+
+
+.form{
+  display: flex;
+  flex-direction:column;
+  align-items: flex-start;
+  gap:60px;
+}
+
+.questions{
+  margin-left:auto;
+}
+
+.resume{
+  background-color: white;
+  color: black;
+}
+
+.label{
+  margin-bottom: 8px;
+}
