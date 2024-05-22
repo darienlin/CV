@@ -35,9 +35,26 @@
 
 .resume{
   background-color: white;
+  width:100vw;
   color: black;
+  padding:50px 50px;
+  text-align:left;
+}
+
+.contactInformation{
+  text-align: center;
 }
 
 .label{
   margin-bottom: 8px;
+}
+
+
+.name{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.resumeSubtitle{
+  font-weight: bold;
 }
