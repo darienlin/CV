@@ -78,7 +78,7 @@ function App() {
 
 
         <div>
-          <div className='subtitle'>Educational Experience test</div>
+          <div className='subtitle'>Educational Experience</div>
           <div className='generalInformation'>
             <div className='formBlock'>
               <div className='label'>School Name</div>
